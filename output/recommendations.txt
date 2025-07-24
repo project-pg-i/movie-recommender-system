@@ -1,0 +1,16 @@
+Top 5 recommendations for 'Star Wars (1977)':
+
+1. Return of the Jedi (1983)           [Similarity Score: 0.88]
+2. Raiders of the Lost Ark (1981)      [Similarity Score: 0.76]
+3. Empire Strikes Back, The (1980)     [Similarity Score: 0.75]
+4. Toy Story (1995)                    [Similarity Score: 0.73]
+5. Godfather, The (1972)               [Similarity Score: 0.70]
+
+Top 5 recommendations for 'Star Wars (1977)':
+
+1. Return of the Jedi (1983)                [Similarity Score: 0.88]
+2. Raiders of the Lost Ark (1981)           [Similarity Score: 0.76]
+3. Empire Strikes Back, The (1980)          [Similarity Score: 0.75]
+4. Toy Story (1995)                         [Similarity Score: 0.73]
+5. Godfather, The (1972)                    [Similarity Score: 0.70]
+
