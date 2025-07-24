@@ -48,11 +48,15 @@ pip install -r requirements.txt
 🚀 How to Run It
 In your terminal, run:
 
+```bash
 python recommender.py
+```
 
 You can modify the movie title and number of recommendations at the bottom of recommender.py:
 
+```bash
 recommend("Star Wars (1977)", num_recommendations=5)
+```
 
 💡 Sample Output
 
